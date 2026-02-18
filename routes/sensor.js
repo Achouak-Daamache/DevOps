@@ -1,1 +1,1 @@
-temperature: "28°C"
+humidity
